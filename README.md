@@ -133,7 +133,7 @@ $ photo.location.first.name
 
 ```
 
-5.Create Collection Object and add the Photo object
+6.Create Collection Object and add the Photo object
 
 ```
 $ collection = Collection.new('2')
